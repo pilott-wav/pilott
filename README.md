@@ -2,12 +2,18 @@
 
 # pilott
 
-c++ developer focused on internal and external development,
-anti-cheat research, reverse engineering, and game security.
+c++ developer focused on internal and external development, anti-cheat research, reverse engineering, and game security.
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=cpp,visualstudio,github,discord" />
+
+<br><br>
+
+![windows](https://img.shields.io/badge/windows-development-111111?style=flat-square\&logo=windows)
+![reverse engineering](https://img.shields.io/badge/reverse-engineering-111111?style=flat-square)
+![game security](https://img.shields.io/badge/game-security-111111?style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat-square\&color=111111)
 
 </div>
 
@@ -15,39 +21,22 @@ anti-cheat research, reverse engineering, and game security.
 
 ### about
 
-i mainly work with c++ and spend most of my time researching anti-cheat systems, reverse engineering, windows internals, and low-level development.
+i mainly work in c++ and specialize in internal and external development. most of my time is spent researching anti-cheat systems, reverse engineering, windows internals, and game security.
 
-most of my work is private, but i occasionally release tools and experiments here.
+most of my projects are private, but i occasionally release tools and experiments here.
 
-### currently
+### tools
 
-* working on internal and external projects
-* learning more about anti-cheat detection
-* researching windows internals
-* probably reading some random forum thread
+`visual studio` · `github` · `claude` · `discord` · `forums`
 
-### stats
+### contact
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
-### activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
-
-</div>
+the best way to reach me is through discord.
 
 ---
 
 <div align="center">
 
-![profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat\&label=profile+views)
+<sub>thanks for checking out my profile.</sub>
 
 </div>
