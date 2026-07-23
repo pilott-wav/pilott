@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.webp" width="100%">
 
 # pilott
 
