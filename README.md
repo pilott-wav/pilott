@@ -2,7 +2,7 @@
 
 # pilott
 
-c++ developer focused on internal and external development, anti-cheat research, reverse engineering, and game security.
+c++ developer focused on internal and external development and reverse engineering.
 
 <br>
 
@@ -12,7 +12,6 @@ c++ developer focused on internal and external development, anti-cheat research,
 
 ![windows](https://img.shields.io/badge/windows-development-111111?style=flat-square\&logo=windows)
 ![reverse engineering](https://img.shields.io/badge/reverse-engineering-111111?style=flat-square)
-![game security](https://img.shields.io/badge/game-security-111111?style=flat-square)
 ![profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat-square\&color=111111)
 
 </div>
@@ -21,7 +20,7 @@ c++ developer focused on internal and external development, anti-cheat research,
 
 ### about
 
-i mainly work in c++ and specialize in internal and external development. most of my time is spent researching anti-cheat systems, reverse engineering, windows internals, and game security.
+i mainly work in c++ and specialize in internal and external development. most of my time is spent learning more about reverse engineering, windows internals, and low-level development.
 
 most of my projects are private, but i occasionally release tools and experiments here.
 
